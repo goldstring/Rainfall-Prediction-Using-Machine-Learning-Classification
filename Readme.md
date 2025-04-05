@@ -1,4 +1,5 @@
 <h1 style='color:red;text-align:center;'>Rainfall Prediction using Machine Learning – Python</h1>
+<img src="https://github.com/goldstring/Rainfall-Prediction-Using-Machine-Learning-Classification/blob/main/15244408_SL_042221_42420_05.jpg?raw=true" />
 <h3>Problem Statement</h3>
     <p>
         Analyze weather data over a 5-day period to identify patterns and correlations between various meteorological factors such as pressure, temperature, humidity, and rainfall. This can help in understanding how these variables influence daily weather conditions.
